@@ -1,5 +1,5 @@
 # <h1>Hello! I'm Sadrac Aramburo</h1>
-I'm a 5th-semester Computer Science student passionate about web development. I'm constantly learning and building projects that make use of modern technologies to solve real-world problems. My focus is on creating efficient, scalable, and user-friendly applications.
+I'm a Computer Science student passionate about web development. I'm constantly learning and building projects that make use of modern technologies. My focus is on creating efficient, scalable, and user-friendly applications.
 
 # <h1>Tech Stack 💻</h1>
 
